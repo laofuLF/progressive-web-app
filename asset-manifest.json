@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/chinese_study_pwa/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/chinese_study_pwa/static/js/main.e9a89b78.chunk.js",
+    "main.js.map": "/chinese_study_pwa/static/js/main.e9a89b78.chunk.js.map",
+    "runtime-main.js": "/chinese_study_pwa/static/js/runtime-main.daad1b3c.js",
+    "runtime-main.js.map": "/chinese_study_pwa/static/js/runtime-main.daad1b3c.js.map",
+    "static/js/2.b9f8946e.chunk.js": "/chinese_study_pwa/static/js/2.b9f8946e.chunk.js",
+    "static/js/2.b9f8946e.chunk.js.map": "/chinese_study_pwa/static/js/2.b9f8946e.chunk.js.map",
+    "static/js/3.c0c9ef0d.chunk.js": "/chinese_study_pwa/static/js/3.c0c9ef0d.chunk.js",
+    "static/js/3.c0c9ef0d.chunk.js.map": "/chinese_study_pwa/static/js/3.c0c9ef0d.chunk.js.map",
+    "index.html": "/chinese_study_pwa/index.html",
+    "service-worker.js": "/chinese_study_pwa/service-worker.js",
+    "service-worker.js.map": "/chinese_study_pwa/service-worker.js.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/chinese_study_pwa/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b9f8946e.chunk.js.LICENSE.txt": "/chinese_study_pwa/static/js/2.b9f8946e.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/chinese_study_pwa/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.daad1b3c.js",
+    "static/js/2.b9f8946e.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.e9a89b78.chunk.js"
+  ]
+}
