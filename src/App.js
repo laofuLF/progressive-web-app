@@ -16,7 +16,7 @@ function App() {
 					target="_blank"
 					rel="noopener noreferrer"
 				>
-					Learn Chinese
+					Learn Chinese Tatertot!
 				</a>
 			</header>
 		</div>
