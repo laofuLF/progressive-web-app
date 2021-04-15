@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,38 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+.Menu-Item {
+	user-select: none;
+  flex: 1 1;
+  text-align: center;
+  font-size: 16px;
+}
+
+/* .Menu-Item-Selected {
+	color: #1890ff;
+	border-top: 2px solid #1890ff;
+	border-bottom: 0px;
+} */
+
+/* .ant-menu-item-selected {
+	color: #1890ff;
+	border-top: 2px solid #1890ff;
+	border-bottom: 0;
+} */
+
+/* .ant-menu-horizontal:not(.ant-menu-dark) {
+	color: #1890ff;
+	border-top: 2px solid #1890ff;
+	border-bottom: 0;
+} */
+
+.Menu {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+  line-height: 58px;
+	display: flex;
+	justify-content: center;
 }
