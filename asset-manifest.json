@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/progressive-web-app/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/progressive-web-app/static/js/main.f3c34cf6.chunk.js",
-    "main.js.map": "/progressive-web-app/static/js/main.f3c34cf6.chunk.js.map",
-    "runtime-main.js": "/progressive-web-app/static/js/runtime-main.b5e0f684.js",
-    "runtime-main.js.map": "/progressive-web-app/static/js/runtime-main.b5e0f684.js.map",
-    "static/js/2.b9f8946e.chunk.js": "/progressive-web-app/static/js/2.b9f8946e.chunk.js",
-    "static/js/2.b9f8946e.chunk.js.map": "/progressive-web-app/static/js/2.b9f8946e.chunk.js.map",
-    "static/js/3.c0c9ef0d.chunk.js": "/progressive-web-app/static/js/3.c0c9ef0d.chunk.js",
-    "static/js/3.c0c9ef0d.chunk.js.map": "/progressive-web-app/static/js/3.c0c9ef0d.chunk.js.map",
+    "main.css": "/progressive-web-app/static/css/main.48e737ea.chunk.css",
+    "main.js": "/progressive-web-app/static/js/main.055a2af9.chunk.js",
+    "main.js.map": "/progressive-web-app/static/js/main.055a2af9.chunk.js.map",
+    "runtime-main.js": "/progressive-web-app/static/js/runtime-main.927e82f4.js",
+    "runtime-main.js.map": "/progressive-web-app/static/js/runtime-main.927e82f4.js.map",
+    "static/css/2.45f96635.chunk.css": "/progressive-web-app/static/css/2.45f96635.chunk.css",
+    "static/js/2.afb3f835.chunk.js": "/progressive-web-app/static/js/2.afb3f835.chunk.js",
+    "static/js/2.afb3f835.chunk.js.map": "/progressive-web-app/static/js/2.afb3f835.chunk.js.map",
+    "static/js/3.8b77211c.chunk.js": "/progressive-web-app/static/js/3.8b77211c.chunk.js",
+    "static/js/3.8b77211c.chunk.js.map": "/progressive-web-app/static/js/3.8b77211c.chunk.js.map",
     "index.html": "/progressive-web-app/index.html",
     "service-worker.js": "/progressive-web-app/service-worker.js",
     "service-worker.js.map": "/progressive-web-app/service-worker.js.map",
-    "static/css/main.8c8b27cf.chunk.css.map": "/progressive-web-app/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.b9f8946e.chunk.js.LICENSE.txt": "/progressive-web-app/static/js/2.b9f8946e.chunk.js.LICENSE.txt",
-    "static/media/logo.103b5fa1.svg": "/progressive-web-app/static/media/logo.103b5fa1.svg"
+    "static/css/2.45f96635.chunk.css.map": "/progressive-web-app/static/css/2.45f96635.chunk.css.map",
+    "static/css/main.48e737ea.chunk.css.map": "/progressive-web-app/static/css/main.48e737ea.chunk.css.map",
+    "static/js/2.afb3f835.chunk.js.LICENSE.txt": "/progressive-web-app/static/js/2.afb3f835.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b5e0f684.js",
-    "static/js/2.b9f8946e.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.f3c34cf6.chunk.js"
+    "static/js/runtime-main.927e82f4.js",
+    "static/css/2.45f96635.chunk.css",
+    "static/js/2.afb3f835.chunk.js",
+    "static/css/main.48e737ea.chunk.css",
+    "static/js/main.055a2af9.chunk.js"
   ]
 }
