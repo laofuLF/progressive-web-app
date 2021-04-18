@@ -1,0 +1,20 @@
+.Category-Container {
+  margin-top: 16px;
+}
+
+.Category-Title {
+  margin: 16px;
+  font-size: 20px;
+}
+
+.Category-Content {
+  margin: 16px;
+  overflow: auto;
+  white-space: nowrap;
+  -webkit-overflow-scrolling: touch;
+  
+}
+
+.Category-Content::-webkit-scrollbar {
+  display: none;
+}

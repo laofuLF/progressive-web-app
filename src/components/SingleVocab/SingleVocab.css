@@ -1,0 +1,21 @@
+.SingleVocab-Container {
+  width: 100%;
+  height: 64px;
+  margin: 12px 0;
+  cursor: pointer;
+  background-color: #fae0e4;
+  display: flex;
+  align-items: center;
+}
+
+.SingleVocab-Content {
+  margin-left: 12px;
+}
+
+.SingleVocab-Chars {
+  display: inline-block;
+}
+
+.SingleVocab-Pinyin {
+  display: inline-block;
+}

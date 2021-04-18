@@ -1,0 +1,27 @@
+.Card-Container {
+  width: 112px;
+  height: 128px;
+  display: inline-block;
+  cursor: pointer;
+  margin-right: 6px;
+  /* float: left; */
+  background-color: #f9bec7;
+  border-radius: 6px;
+}
+
+.Card-Title {
+  padding: 24px;
+}
+
+.Card-Bottom {
+  display: flex;
+  padding: 0 24px 24px 24px;
+}
+
+.Card-Bottom-Icon {
+
+}
+
+.Card-Bottom-Count {
+  margin-left: 6px;
+}

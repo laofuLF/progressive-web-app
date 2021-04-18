@@ -1,0 +1,28 @@
+.VocabDetails-Content {
+  padding: 24px;
+  font-size: 16px;
+}
+
+.VocabDetails-Summary-Title {
+  font-size: 24px;
+}
+
+.VocabDetails-Chars {
+  font-size: 64px;
+}
+
+.VocabDetails-Pinyin {
+  display: inline-block;
+  margin: 12px 0;
+  font-weight: 600;
+}
+
+.VocabDetails-Pronounce {
+  display: inline-block;
+  margin: 12px 0;
+  margin-left: 8px;
+}
+
+.VocabDetails-Definition {
+  font-weight: 500;
+}
