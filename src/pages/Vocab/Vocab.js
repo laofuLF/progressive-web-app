@@ -9,7 +9,7 @@ class Vocab extends Component {
 	constructor(props) {
 		super(props);
 		this.state = {
-			current: 'vocabDetails'
+			current: 'vocab'
 		};
 	}
 
